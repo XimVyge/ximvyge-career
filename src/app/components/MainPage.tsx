@@ -178,7 +178,7 @@ const MainPage = () => {
 
       <section id="contact" className="contact">
         <p className="label">Contact</p>
-        <h2>Open to remote backend engineering roles, with long-term interest in Switzerland and Germany.</h2>
+        <h2>Open to remote backend and full-sstack engineering roles.</h2>
         <p>
           Best fit: Java/Spring backend roles, fintech platforms, distributed systems, cloud-native services, and performance-focused engineering teams.
         </p>
