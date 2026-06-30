@@ -1,0 +1,10 @@
+
+.detail-container{
+    height: 98vh;
+    align-items: center;
+}
+
+p{
+    font-weight: bold;
+    text-align: justify;
+}

@@ -1,0 +1,46 @@
+{
+"backend":{
+    "Java":"/images/java.png",
+    "Spring Boot" : "/images/spring-boot.png",
+    "Maven":"/images/maven.png",
+    "ElasticSearch":"/images/elastic-search.png",
+    "C#":"/images/c-sharp.png",
+    "ASP.NET":"/images/asp-net.png",
+    "ASP.NET Zero":"/images/asp-net-zero.png",
+    "Swagger":"/images/swagger.png",
+    "Python":"/images/python.png"
+},
+"frontend":{
+    "JavaScript":"/images/javascript.png",
+    "TypeScript":"/images/typescript.png",
+    "Node.JS":"/images/node-js.png",
+    "React":"/images/react.png",
+    "Axios":"/images/axios.png",
+    "Redux":"/images/redux.png",
+    "Angular":"/images/angular.png"
+},
+"testing":{
+    "JUnit":"/images/junit.png"
+},
+"ci-cd":{
+    "Git":"/images/git.png",
+    "Github":"/images/github.png",
+    "Github Actions":"/images/github-actions.png",
+    "Azure DevOps":"/images/azure-devops.png"
+},
+"reports":{
+    "Jasper Reports":"/images/jasper-reports.png",
+    "POI":"/images/poi.png"
+},
+"database":{
+    "MySQL":"/images/mysql.png",
+    "PostgreSQL":"/images/postgresql.png",
+    "Microsoft SQL":"/images/ms-sql.png",
+    "Google Firebase":"/images/google-firebase.png"
+},
+"cloud":{
+    "AWS":"/images/aws.png",
+    "Microsoft Azure":"/images/ms-azure.png",
+    "Digital Ocean":"/images/digital-ocean.png"
+}
+}

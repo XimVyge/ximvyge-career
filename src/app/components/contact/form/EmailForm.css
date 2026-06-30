@@ -1,0 +1,35 @@
+
+form{
+    align-items: center;
+}
+
+.input-container{
+    width: 100%;
+}
+
+.form-text-input{
+    border: 0px solid gray;
+    height: 3vh;
+    width: 100%;
+    padding: 2%;
+}
+
+.form-text-area{
+    border: 0px solid gray;
+    height: 25vh;
+    width: 100%;
+    padding: 2%;
+}
+
+.form-flex{
+    gap: 1vh;
+    object-fit: contain;
+    align-items: center;
+}
+
+.submit-button{
+    border: 0px;
+    padding: 2%;
+    width: 30%;
+    background-color: aqua;
+}

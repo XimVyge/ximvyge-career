@@ -1,0 +1,91 @@
+.scroll-container{
+    height: 80vh;
+    border-radius: 1%;
+    overflow: auto;
+}
+
+.scroll-container::-webkit-scrollbar{
+    width: 10px;
+    height: 10px;
+}
+
+.scroll-container::-webkit-scrollbar-thumb{
+    background: #888; 
+    border-radius: 10px; 
+}
+
+.scroll-container::-webkit-scrollbar-thumb:hover{
+    background: #555; 
+}
+
+.scroll-container::-webkit-scrollbar-track{
+    background: #f1f1f1; 
+    border-radius: 10px; 
+}
+
+.flex-box{
+    padding: 3%;
+}
+
+.flex-horizontal {
+    display: flex;
+    gap: 1vh;
+}
+
+.card-container{
+    height: 28vh;
+    width: 100%;
+    border-radius: 1%;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+    justify-content: space-between;
+}
+
+.card-container::-webkit-scrollbar{
+    width: 10px;
+    height: 10px;
+}
+
+.card-container::-webkit-scrollbar-thumb{
+    background: #888; 
+    border-radius: 10px; 
+}
+
+.card-container::-webkit-scrollbar-thumb:hover{
+    background: #555; 
+}
+
+.card-container::-webkit-scrollbar-track{
+    background: #f1f1f1; 
+    border-radius: 10px; 
+}
+
+.detail-card{
+    height: 26vh;
+    width: 20vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    box-sizing: border-box;
+    align-items: center;
+    padding: 1vh;
+}
+
+.image-wrapper{
+    height: 15vh;
+    width: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0);
+    border-radius: 8px; 
+    margin-top: 20%;
+}
+
+.detail-image{
+    max-width: 100%;
+    max-height: 100%; 
+    object-fit: contain;
+}
+

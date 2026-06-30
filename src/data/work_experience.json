@@ -1,0 +1,46 @@
+[
+    {
+        "company":"Maya Philippines",
+        "timePeriod":"April 2025 - Present",
+        "position":"Software Engineer",
+        "responsibilities":[
+            "Actively participate in designing and inplementing new features.",
+            "Perform system improvements to ensure seamless user experience.",
+            "Resolve issues raised by users in a timely manner to ensure maximum customer staisfaction.",
+            "Collaborate with cross-functional teams to ensure smooth development process"
+        ],
+        "techStack":[
+            "Java", "Spring Boot", "Spring MVC", "Maven",
+            "AWS", "Docker", "Wiremock", "Event Driven Architecture",
+            "PostgreSQL", "Splunk", "Databricks", "AWS"
+        ]
+    },{
+        "company":"Monstarlab Philippines",
+        "timePeriod":"August 2023 - April 2025",
+        "position":"Junior Full Stack Developer",
+        "responsibilities":[
+            "Work closely with clients to ensure project consistency with client goals.",
+            "Build and maintain software infrastructure to ensure user satisfaction during production.",
+            "Increase productivity by using software to organize, track bug patches and add feature requests.",
+            "Collaborate with other developers to update the system and create new features. "
+        ],
+        "techStack":[
+            "Java", "Spring Boot", "Spring MVC", "Maven",
+            "Typescript", "NodeJS", "React", "Redux", "Axios", "Jasper Reports",
+            "MySQL"
+        ]
+    },
+    {
+        "company":"NutNull IT Solutions",
+        "timePeriod":"February, 2023 - May, 2023",
+        "position":"Full Stack Developer Intern",
+        "responsibilities":[
+            "Built web software solutions for clients.",
+            "Assisted in troubleshooting software.",
+            "Created and tested applications for websites."
+        ],
+        "techStack":[
+            "C#", "ASP.NET", "ASP.NET Zero", "Swagger", "NodeJS", "Angular", "Bootstrap"
+        ]
+    }
+]
